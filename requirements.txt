@@ -1,0 +1,9 @@
+tensorflow==2.16.1 \
+    --hash=sha256:1c5611e7357b7a4bc6dccc60750c91e27cdff82622fc917848f22add5ab8de26 \
+    --hash=sha256:093573a8eb93ef9511e7015b8de9659ed27156f2f05e6d1211f8f4cb76407ee1 \
+    --hash=sha256:21a3c6d76a39f52754c389326f6bef8aef3c26b5bc89ca365add4a69483e569e
+    # https://pypi.org/project/tensorflow/2.16.1/#files
+torch==2.2.1 \
+    --hash=sha256:84b2fb322ab091039fdfe74e17442ff046b258eb5e513a28093152c5b07325a7 \
+    --hash=sha256:be21d4c41ecebed9e99430dac87de1439a8c7882faf23bba7fea3fea7b906ac1
+    # https://pypi.org/project/torch/2.2.1/#files
